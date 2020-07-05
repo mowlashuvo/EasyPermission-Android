@@ -1,0 +1,3 @@
+rootProject.name='EasyPermissionExamp'
+include ':app'
+include ':easy-permission'
