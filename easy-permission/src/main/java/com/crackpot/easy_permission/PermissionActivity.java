@@ -44,7 +44,7 @@ public class PermissionActivity extends AppCompatActivity {
         setContentView(R.layout.activity_permission);
 
         initComponent();
-        loadPermission(permissionArrayList);
+
 
 
         adapter.setOnItemClickListener(new AdapterPermission.OnItemClickListener() {
